@@ -2,7 +2,7 @@
 
 [Demo](https://angular-blog2022.firebaseapp.com/)
 
-Go to the [admin module](https://angular-blog2022.firebaseapp.com/admin/login) using:
+For creating and editing posts go to the [admin module](https://angular-blog2022.firebaseapp.com/admin/login) using:
 
 login - mizonov.iv@gmail.com
 
