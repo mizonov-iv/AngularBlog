@@ -1,7 +1,7 @@
-Learning Angular on creating simple Blog using Firebase hosting.
+# Learning Angular on creating simple Blog using Firebase hosting.
 
-[Demp](https://angular-blog2022.firebaseapp.com/)
+[Demo](https://angular-blog2022.firebaseapp.com/)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Go to the [admin module](https://angular-blog2022.firebaseapp.com/admin/login) using:
+login - mizonov.iv@gmail.com
+password - 1q2w3e
