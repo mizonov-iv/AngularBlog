@@ -2,6 +2,8 @@
 
 [Demo](https://angular-blog2022.firebaseapp.com/)
 
-# Go to the [admin module](https://angular-blog2022.firebaseapp.com/admin/login) using:
+Go to the [admin module](https://angular-blog2022.firebaseapp.com/admin/login) using:
+
 login - mizonov.iv@gmail.com
+
 password - 1q2w3e
